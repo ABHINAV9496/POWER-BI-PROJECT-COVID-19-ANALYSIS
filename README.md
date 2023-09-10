@@ -19,3 +19,12 @@ To run the project, you need to have the following tools and libraries:
  3.  Libraries: pandas, numpy, matplotlib
 
  4.  Power BI Desktop (free version available)
+
+# Getting Started
+
+Follow the steps below to get started with the project:
+1.Open the Jupyter Notebook files provided in the repository.
+2.install the required libraries.
+3.Run the codes and analyse the data using python.
+4.Import the data into PowerBI Desktop.
+5.Create Dashboard and Visualization using the imported data.
