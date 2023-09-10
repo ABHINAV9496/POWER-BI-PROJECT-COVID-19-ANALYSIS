@@ -23,8 +23,11 @@ To run the project, you need to have the following tools and libraries:
 # Getting Started
 
 Follow the steps below to get started with the project:
-1.Open the Jupyter Notebook files provided in the repository.
-2.install the required libraries.
-3.Run the codes and analyse the data using python.
-4.Import the data into PowerBI Desktop.
-5.Create Dashboard and Visualization using the imported data.
+1. Open the Jupyter Notebook files provided in the repository.
+2. install the required libraries.
+3. Run the codes and analyse the data using python.
+4. Import the data into PowerBI Desktop.
+5. Create Dashboard and Visualization using the imported data.
+
+# License
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes.
