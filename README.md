@@ -29,5 +29,5 @@ Follow the steps below to get started with the project:
 4. Import the data into PowerBI Desktop.
 5. Create Dashboard and Visualization using the imported data.
 
-# License
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes.
+# Conclusion
+The given dataset is analysed using both Python and PowerBI Desktop.In conclusion, our COVID-19 project has been a comprehensive effort to understand, mitigate, and respond to the challenges posed by the pandemic.
