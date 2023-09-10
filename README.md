@@ -5,7 +5,7 @@ The COVID-19 pandemic had a profound impact on the world since its emergence in 
 
 # Dataset
 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report (full_grouped.csv)
 
 # Requirements
 To run the project, you need to have the following tools and libraries:
