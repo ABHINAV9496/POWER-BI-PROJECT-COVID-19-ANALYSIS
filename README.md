@@ -5,15 +5,16 @@ The COVID-19 pandemic had a profound impact on the world since its emergence in 
 
 # Dataset
 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report (full_grouped.csv)
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report 
+File Name-(full_grouped.csv)
 
 # Requirements
 To run the project, you need to have the following tools and libraries:
 
- 1) Python 3.6 or above
+ 1. Python 3.6 or above
 
- 2) Jupyter Notebook or any Python IDE
+ 2. Jupyter Notebook or any Python IDE
 
- 3)  Libraries: pandas, numpy, matplotlib
+ 3.  Libraries: pandas, numpy, matplotlib
 
- 4)  Power BI Desktop (free version available)
+ 4.  Power BI Desktop (free version available)
