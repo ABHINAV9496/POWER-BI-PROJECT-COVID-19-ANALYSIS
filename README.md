@@ -30,6 +30,7 @@ Follow the steps below to get started with the project:
 5. Create Dashboard and Visualization using the imported data.
 
 # Disclaimer
+
 This dashboard is for informational purposes only and should not replace official guidance from health authorities or government sources. Always refer to authoritative sources for the latest information on COVID-19.
 
 # Conclusion
