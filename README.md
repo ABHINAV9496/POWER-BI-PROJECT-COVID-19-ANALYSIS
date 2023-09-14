@@ -29,5 +29,8 @@ Follow the steps below to get started with the project:
 4. Import the data into PowerBI Desktop.
 5. Create Dashboard and Visualization using the imported data.
 
+# Disclaimer
+This dashboard is for informational purposes only and should not replace official guidance from health authorities or government sources. Always refer to authoritative sources for the latest information on COVID-19.
+
 # Conclusion
 The given dataset is analysed using both Python and PowerBI Desktop.In conclusion, our COVID-19 project has been a comprehensive effort to understand, mitigate, and respond to the challenges posed by the pandemic.
